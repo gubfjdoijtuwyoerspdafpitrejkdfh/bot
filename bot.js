@@ -731,9 +731,9 @@ client.on("message", (message) => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`Desert Bot- Script By : DrTriCk`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : DrTriCk ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`$help | 𝒟ℰ𝒜𝒯ℋ { Bot }`,"http://twitch.tv/DJ")
