@@ -736,7 +736,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$help | DJ Dam System`,"http://twitch.tv/DJ")
+client.user.setGame(`$help | 𝒟ℰ𝒜𝒯ℋ { Bot }`,"http://twitch.tv/DJ")
 client.user.setStatus("dnd")
 });
  
@@ -776,7 +776,7 @@ message.author.send(`
 ❧ $say ➺ البوت يكرر كلام انته تحدده
 ❧ $id ➺ لعرض معلوماتك
 ❧ $new ➺ لانشاء تذكرة
-─════════════ {✯ By ♛ NovritschPro#6808 ✯} ════════════─
+─════════════ {✯ By ♛ TM - هبيد عالمي#9216  ✯} ════════════─
 **
 `);
 }
